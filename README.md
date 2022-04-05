@@ -3,6 +3,9 @@ This project is sGYRO Calculator for Staking
 
 ##### Stack: Coingetco API, React, Web3JS
 
+![161627194-de318a9e-317e-4d13-b660-464f5a07a143](https://user-images.githubusercontent.com/90754657/161825474-ae237d39-ceee-4ffc-a1ca-7ec121acc087.png)
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
